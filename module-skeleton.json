@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-customers-and-sites-dart-mobile",
+  "capabilityKey": "liberusoftware/module-maintenance-customers-and-sites",
+  "presentation": "dart-mobile",
+  "package": "module_maintenance_customers_and_sites_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/maintenance/nextjs/customers-and-sites.md",
+  "presentationPlan": "projects/maintenance/features/customers-and-sites.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
